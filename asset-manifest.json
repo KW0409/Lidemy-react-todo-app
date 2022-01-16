@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lidemy-react-todo-app/static/css/main.7786fbfa.css",
+    "main.js": "/Lidemy-react-todo-app/static/js/main.8f8381bc.js",
+    "index.html": "/Lidemy-react-todo-app/index.html",
+    "main.7786fbfa.css.map": "/Lidemy-react-todo-app/static/css/main.7786fbfa.css.map",
+    "main.8f8381bc.js.map": "/Lidemy-react-todo-app/static/js/main.8f8381bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7786fbfa.css",
+    "static/js/main.8f8381bc.js"
+  ]
+}
